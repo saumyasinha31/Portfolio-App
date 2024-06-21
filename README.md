@@ -1,16 +1,17 @@
-# portfolio
+# Portfolio App
 
-A new Flutter project.
+A simple Flutter portfolio application showcasing personal information, educational background, projects, location, email, positions of responsibility, and achievements. 
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays personal information and profile picture
+- Shows educational background
+- Lists projects
+- Shows location and contact information
+- Displays positions of responsibility and achievements
+- Uses custom fonts and background images
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![Screenshot from 2024-06-21 15-38-50](https://github.com/saumyasinha31/Portfolio-App/assets/103508561/436ce209-d726-48cb-bce4-209888278985)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
